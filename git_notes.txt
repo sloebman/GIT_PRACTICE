@@ -1,0 +1,10 @@
+git init	%Initialized empty Git repository in /Users/sloebman/Desktop/GIT_PRACTICE/.git/
+git status	%<- favorite command On branch master
+git add jupiter.txt 
+git commit -m "initial thoughts on jupiter"
+git help log
+git log -1
+git diff mars.txt
+git diff --staged mars.txt
+git reset mars.txt
+git diff HEAD-1
