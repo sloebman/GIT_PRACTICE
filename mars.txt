@@ -1,1 +1,2 @@
+added another line at the beginning
 this is a file about mars.
